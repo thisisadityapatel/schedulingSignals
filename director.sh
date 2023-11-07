@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# First Name: Aditya Kamleshkumar
-# Last Name: Patel
-# Student Number: 501122872
-# Email: aditya.patel@torontomu.ca
-
 # Check for invalid command line arguments
 if [ $# -ne 2 ]; then
   echo "Required Input: $0 W sPID"
